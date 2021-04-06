@@ -2,6 +2,7 @@ let vacationSpots = [
         {
             id: 1,
             place: "Turk and Caicos Islands",
+            color: "Yellow",
             price: "$1500",
             expensive: "$$$",
             timeToGo: "Summer",
@@ -10,6 +11,7 @@ let vacationSpots = [
         {
             id: 2,
             place: "Dubai",
+            color: "red",
             price: "$1500",
             expensive: "$$$",
             timeToGo: "Spring",
@@ -18,6 +20,7 @@ let vacationSpots = [
         {
             id: 3,
             place: "Hawaii",
+            color: "purple",
             price: "$800",
             expensive: "$$",
             timeToGo: "Winter",
@@ -26,6 +29,7 @@ let vacationSpots = [
         {
             id: 4,
             place: "Puerto Rico",
+            color: "blue",
             price: "$500",
             expensive: "$",
             timeToGo: "Winter",
@@ -34,6 +38,7 @@ let vacationSpots = [
         {
             id: 5,
             place: "Fiji",
+            color: "aqua",
             price: "$1700",
             expensive: "$$$",
             timeToGo: "Spring",
@@ -42,6 +47,7 @@ let vacationSpots = [
         {
             id: 6,
             place: "Dominican Republic",
+            color: "orange",
             price: "$1000",
             expensive: "$$",
             timeToGo: "Fall",
