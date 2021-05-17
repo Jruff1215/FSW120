@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color: white;
+}
+.image { 
+  border-radius: 25px;
+  width: 250px;
+  height: 250px;
+  border: 4px solid goldenrod;
+  align-items: center;
+}
+
+.box {
+text-align: center;
+}
+
+.show {
+  text-align: center;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.name {
+  text-align: center;
+}
+ 

@@ -6,7 +6,6 @@ function blogList(props) {
             <h2 className = "blog">{props.title}</h2>
             <p className = "sub">{props.subTitle}</p>
             <p className = "author"> Posted by <b>{props.author}</b> on {props.date}</p>
-            
         </div>
     )
 }
